@@ -1,3 +1,4 @@
 # Parcial_NodeJS_EJS 
 Numero de puerto: 3000
-# PARCIAL_UNO_EJS
+# Objeto seleccionado
+Terminal de transportes --> Accion: Vende tiquetes a usuarios
